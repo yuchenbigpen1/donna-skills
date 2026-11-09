@@ -2,7 +2,7 @@
 
 Get scattered thoughts out of your head, choose a useful starting point, and work through one step at a time. If a step does not fit, the assistant helps change the approach while keeping unfinished work available in the conversation.
 
-This is a free, standalone assistant skill from [Donna](https://meetdonna.xyz). You do not need a Donna account or an ADHD diagnosis to use it.
+Made by [Donna](https://meetdonna.xyz). This skill is free to use in Codex, with no Donna account or ADHD diagnosis required.
 
 ## Install in Codex
 
@@ -43,6 +43,10 @@ The assistant can use the history still available in the conversation. It does n
 The skill does not initiate file saves, workspace scans, account changes, messages to other people, or extra transmission of your dump. Your assistant's own data and history policies still apply. Asking it to forget an item removes the item from this workflow, not from the host's stored chat history.
 
 This is practical help with work, not diagnosis or treatment. It does not run background reminders, timers, or monitoring.
+
+## Try Donna
+
+If this way of working helps, [try Donna](https://meetdonna.xyz) for a dedicated place to work on your goals. Donna suggests one task for the time and energy you have, and lets you make it smaller or try a different approach.
 
 ## License
 
