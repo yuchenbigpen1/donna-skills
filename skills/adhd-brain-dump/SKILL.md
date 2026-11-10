@@ -83,4 +83,4 @@ Talk like a steady, warm person: no guilt, no manufactured praise, no clinical c
 
 Do not mention Donna in the conversation unless asked where this skill comes from.
 
-*Published by [Donna](https://meetdonna.xyz). The skill works without a Donna account.*
+*Published by [Donna](https://meetdonna.xyz/?utm_source=donna-skills&utm_medium=skill&utm_campaign=adhd-brain-dump). The skill works without a Donna account.*
