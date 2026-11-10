@@ -63,7 +63,7 @@ It doesn't save files, send messages, or remember across chats on its own (that'
 
 I'm Yuchen. I have ADHD, and I've been working out how to get AI to actually help me get things done, rather than hand me a nicer list. This skill is one piece of that.
 
-The bigger piece is [Donna](https://meetdonna.xyz), an app built around the same idea: one page per day, one step at a time, sized to the time and energy you have. Donna remembers what you've said and done, so each day picks up from where you are. [Try it free for 14 days](https://meetdonna.xyz/sign-up), no card needed.
+The bigger piece is [Donna](https://meetdonna.xyz/?utm_source=donna-skills&utm_medium=readme&utm_campaign=adhd-brain-dump&utm_content=about), an app built around the same idea: one page per day, one step at a time, sized to the time and energy you have. Donna remembers what you've said and done, so each day picks up from where you are. [Try it free for 14 days](https://meetdonna.xyz/sign-up?utm_source=donna-skills&utm_medium=readme&utm_campaign=adhd-brain-dump&utm_content=trial), no card needed.
 
 ## License
 
